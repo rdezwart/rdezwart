@@ -6,4 +6,4 @@ I’m a 4th-year student at Simon Fraser University’s School of Interactive Ar
 
 ## Links
 
-You've found my GitHub, but I also have a [LinkedIn](https://www.linkedin.com/in/rdezwart/) and an [old portfolio from 2019](https://robindezwart.com/).
+You've found my GitHub, but I also have a [LinkedIn](https://www.linkedin.com/in/rdezwart/) and an [old portfolio from 2019](https://robindezwart.com/) (best viewed on desktop).
